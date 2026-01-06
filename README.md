@@ -1,0 +1,1 @@
+MonkeMirror is a Gorilla Tag mod that adds a mirror into the stump.<img width="1080" height="1080" alt="CoverImageMonkeMirror" src="https://github.com/user-attachments/assets/a5c6a255-74fd-4d99-a014-6d8f715f731a" />
